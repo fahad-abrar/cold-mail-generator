@@ -4,10 +4,9 @@ The Cold Mail Generator is a Flask-based backend service that utilizes LangChain
 
 ## Features
 
-** Generate Cold Emails ** : Create personalized cold emails using job descriptions.
-** Flask Backend ** : Provides a REST API for generating cold emails.
-** Integration with Google Generative AI ** : Leverages Google's generative model for crafting emails.
-Setup
+- **Generate Cold Emails** : Create personalized cold emails using job descriptions.
+- **Flask Backend** : Provides a REST API for generating cold emails.
+- **Integration with Google Generative AI** : Leverages Google's generative model for crafting emails.
 
 ## Prerequisites
 
